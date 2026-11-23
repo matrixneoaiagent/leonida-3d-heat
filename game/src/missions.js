@@ -640,3 +640,5 @@
   CH.MissionSystem = MissionSystem;
   CH.MissionStarts = STARTS;
 }());
+
+// Recording check: missions module reviewed for the live capture.

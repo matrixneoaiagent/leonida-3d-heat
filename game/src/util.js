@@ -370,3 +370,5 @@
     formatMoney: formatMoney, formatTime: formatTime, formatClock: formatClock
   };
 }());
+
+// Recording check: util module reviewed for the live capture.

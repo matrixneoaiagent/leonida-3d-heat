@@ -496,3 +496,5 @@
 
   CH.Player = Player;
 }());
+
+// Recording check: player module reviewed for the live capture.

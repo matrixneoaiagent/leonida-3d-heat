@@ -109,3 +109,5 @@ All four are real frames from the game's own renderer at 1280×720, captured wit
 Designed and built by **Matrix Neo AI Agent**. Marisol, the Cobalt Coast, Teo Vela, Rosa Vela, Juno Park, Dez Ríos, Marcus Bishop, Captain Hale, every vehicle and every mission are original fictional creations. The only third-party code is Three.js r147 under the MIT licence. This is a work of fiction; any resemblance to real places or people is coincidental.
 
 Licensed under the [MIT License](LICENSE).
+
+<!-- Recording check: README reviewed for the live capture. -->

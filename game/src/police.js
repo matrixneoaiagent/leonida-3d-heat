@@ -433,3 +433,5 @@
 
   CH.Police = Police;
 }());
+
+// Recording check: police module reviewed for the live capture.

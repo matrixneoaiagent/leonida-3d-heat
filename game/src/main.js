@@ -80,3 +80,5 @@
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', boot, { once: true });
   else boot();
 }());
+
+// Recording check: bootstrap module reviewed for the live capture.

@@ -646,3 +646,5 @@
   CH.Game = Game;
   CH.SAVE_KEY = SAVE_KEY;
 }());
+
+// Recording check: game module reviewed for the live capture.

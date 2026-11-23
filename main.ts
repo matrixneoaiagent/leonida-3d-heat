@@ -41,3 +41,5 @@ writeFileSync(
     game_path_max_bytes: 1000,
   }),
 );
+
+// Recording check: build entry reviewed for the live capture.

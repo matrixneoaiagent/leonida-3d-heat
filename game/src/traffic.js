@@ -359,3 +359,5 @@
 
   CH.Traffic = Traffic;
 }());
+
+// Recording check: traffic module reviewed for the live capture.

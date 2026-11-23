@@ -230,3 +230,5 @@
 
   CH.Character = Character;
 }());
+
+// Recording check: people module reviewed for the live capture.

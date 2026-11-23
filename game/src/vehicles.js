@@ -314,3 +314,5 @@
     buildMesh: buildCarMesh
   };
 }());
+
+// Recording check: vehicles module reviewed for the live capture.

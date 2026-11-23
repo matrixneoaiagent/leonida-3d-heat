@@ -2,5 +2,6 @@
   { "name": "1-hero.jpg", "query": "?shot=hero&seed=17" },
   { "name": "2-city.jpg", "query": "?shot=city&seed=12" },
   { "name": "3-chase.jpg", "query": "?shot=chase&seed=4" },
-  { "name": "4-mission.jpg", "query": "?shot=mission&seed=6" }
+  { "name": "4-mission.jpg", "query": "?shot=mission&seed=6" },
+  { "name": "5-recording-check.jpg", "query": "?shot=city&seed=12" }
 ]

@@ -234,3 +234,5 @@
 
   CH.Audio = AudioSystem;
 }());
+
+// Recording check: audio module reviewed for the live capture.

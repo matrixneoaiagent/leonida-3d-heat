@@ -250,3 +250,5 @@
 
   CH.Effects = Effects;
 }());
+
+// Recording check: effects module reviewed for the live capture.

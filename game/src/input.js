@@ -150,3 +150,5 @@
 
   CH.Input = Input;
 }());
+
+// Recording check: input module reviewed for the live capture.

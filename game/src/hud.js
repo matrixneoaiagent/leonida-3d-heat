@@ -808,3 +808,5 @@
 
   CH.HUD = HUD;
 }());
+
+// Recording check: HUD module reviewed for the live capture.

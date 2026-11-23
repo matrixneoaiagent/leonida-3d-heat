@@ -335,3 +335,5 @@
     }
   };
 }());
+
+// Recording check: config module reviewed for the live capture.

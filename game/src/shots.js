@@ -673,3 +673,5 @@
 
   CH.Shots = Shots;
 }());
+
+// Recording check: shots module reviewed for the live capture.

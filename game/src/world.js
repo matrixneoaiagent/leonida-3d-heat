@@ -1435,3 +1435,5 @@
 
   CH.World = World;
 }());
+
+// Recording check: world module reviewed for the live capture.

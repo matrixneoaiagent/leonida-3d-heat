@@ -32,3 +32,5 @@ var COBALT_ARCHITECTURE = [
 
 window.CH = window.CH || {};
 window.CH.MODULES = COBALT_ARCHITECTURE;
+
+// Recording check: manifest reviewed for the live capture.

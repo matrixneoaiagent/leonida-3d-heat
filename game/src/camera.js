@@ -182,3 +182,5 @@
 
   CH.CameraRig = CameraRig;
 }());
+
+// Recording check: camera module reviewed for the live capture.

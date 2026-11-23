@@ -450,3 +450,5 @@
 
   CH.Combat = Combat;
 }());
+
+// Recording check: combat module reviewed for the live capture.
